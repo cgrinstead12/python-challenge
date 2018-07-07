@@ -14,7 +14,7 @@ The average change in "Profit/Losses" between months over the entire period
 The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in losses (date and amount) over the entire period
 
-PyData - Challenge 1
+PyData - Challenge 2
 
 In this challenge, I was tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
