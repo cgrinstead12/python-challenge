@@ -1,5 +1,7 @@
 # python-challenge
 
+![alt text](https://qph.fs.quoracdn.net/main-qimg-6cdf1232b1f705573716e1c3733a7bbc.webp)
+
 PyBank
 
 In this challenge, I was tasked with creating a Python script for analyzing the financial records of your company. I was given a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
