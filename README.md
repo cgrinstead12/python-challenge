@@ -2,7 +2,7 @@
 
 ![alt text](https://qph.fs.quoracdn.net/main-qimg-6cdf1232b1f705573716e1c3733a7bbc.webp)
 
-PyBank - Challenge 1
+**PyBank - Challenge 1**
 
 In this challenge, I was tasked with creating a Python script for analyzing the financial records of a company. I was given a set of financial data called budget_data.csv. The dataset was composed of two columns: Date and Profit/Losses.
 
@@ -14,7 +14,7 @@ The average change in "Profit/Losses" between months over the entire period
 The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in losses (date and amount) over the entire period
 
-PyData - Challenge 2
+**PyData - Challenge 2**
 
 In this challenge, I was tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
